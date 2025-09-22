@@ -9,5 +9,5 @@ Software Engineer, specializing in building scalable and efficient cloud systems
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,rust,ts,bash,aws,linux,kubernetes&perline=7" height="48" alt="stack icons" />
+  <img src="https://skillicons.dev/icons?i=py,rust,ts,bash,aws,linux,kubernetes,terraform&perline=7" height="48" alt="stack icons" />
 </p>
